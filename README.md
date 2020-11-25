@@ -298,10 +298,31 @@ with Collective Multi-View Representation Learning</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(158).pdf" style="text-decoration:none;">Structural Deep Network Embedding</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(159).pdf" style="text-decoration:none;">Is a Single Embedding Enough? Learning Node Representations that Capture Multiple Social Contexts</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(159).pdf" style="text-decoration:none;">Link Prediction using Supervised Learning</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(160).pdf" style="text-decoration:none;">You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(161).pdf" style="text-decoration:none;">Contextual Parameter Generation for Knowledge Graph Link Prediction</a></li>
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(162).pdf" style="text-decoration:none;">Link Prediction In Social Networks</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(163).pdf" style="text-decoration:none;">New Perspectives and Methods in Link Prediction</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(164).pdf" style="text-decoration:none;">Pairwise Link Prediction</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(165).pdf" style="text-decoration:none;">Link Prediction in the Pinterest Network</a></li>
+    
+<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(166).pdf" style="text-decoration:none;">Link Prediction in Graph Streams</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(167).pdf" style="text-decoration:none;">Using Semantic Information to Improve Link Prediction Results in Network Datasets</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(168).pdf" style="text-decoration:none;">Nonparametric Link Prediction in Dynamic Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(169).pdf" style="text-decoration:none;">Link Prediction in Very Large Directed Graphs: Exploiting Hierarchical Properties in Parallel</a></li> 
+  
+  
+  
+  
+  
  
    </ul>
