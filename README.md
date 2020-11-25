@@ -149,91 +149,84 @@ Learning Node Embeddings via Graph Attention</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(80).pdf" style="text-decoration:none;">Mutual Information Maximization in Graph Neural Networks</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(81).pdf" style="text-decoration:none;">GLEE: Geometric Laplacian Eigenmap Embedding</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(82).pdf" style="text-decoration:none;">Multi-relational Poincaré Graph Embeddings</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(83).pdf" style="text-decoration:none;">Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(84).pdf" style="text-decoration:none;">STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(85).pdf" style="text-decoration:none;">End to end learning and optimization on graphs</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(86).pdf" style="text-decoration:none;">Knowledge Hypergraphs: Prediction Beyond Binary Relations </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(87).pdf" style="text-decoration:none;">Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(88).pdf" style="text-decoration:none;">Dynamic Network Embedding via Incremental Skip-gram with Negative Sampling</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(89).pdf" style="text-decoration:none;">Position-aware Graph Neural Networks</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(90).pdf" style="text-decoration:none;"> Neural Variational Inference For Estimating Uncertainty in Knowledge Graph Embeddings</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(91).pdf" style="text-decoration:none;">Graph embedding on biomedical networks: methods, applications and evaluations</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(92).pdf" style="text-decoration:none;">Karaoke: Distributed Private Messaging
-Immune to Passive Traffic Analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(94).pdf" style="text-decoration:none;">Ksplice: Automatic Rebootless Kernel Updates</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(92).pdf" style="text-decoration:none;">Graph Star Net for Generalized Multi-Task Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(93).pdf" style="text-decoration:none;"> Augmenting and Tuning Knowledge Graph Embeddings</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(94).pdf" style="text-decoration:none;">DynWalks: Global Topology and Recent Changes Awareness Dynamic Network Embedding</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(95).pdf" style="text-decoration:none;">Smartcrawler: A Two-stage Crawler For Efficient Search Result</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(95).pdf" style="text-decoration:none;">Benchmarks for Graph Embedding Evaluation</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(96).pdf" style="text-decoration:none;">Non-scalable locks are dangerous</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(96).pdf" style="text-decoration:none;">Variational Graph Recurrent Neural Networks</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(97).pdf" style="text-decoration:none;">An Analysis of Linux Scalability to Many Cores</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(97).pdf" style="text-decoration:none;">Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(98).pdf" style="text-decoration:none;">Software fault isolation with
-API integrity and multi-principal modules</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(98).pdf" style="text-decoration:none;">KG-BERT: BERT for Knowledge Graph Completion</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(99).pdf" style="text-decoration:none;">M&M: A Passive Toolkit for Measuring, Correlating, and Tracking Path Characteristics</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(99).pdf" style="text-decoration:none;">Stacking Models for Nearly Optimal Link Prediction in Complex Networks</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(100).pdf" style="text-decoration:none;">Cache Craftiness for Fast Multicore Key-Value Storage</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(100).pdf" style="text-decoration:none;">Learning Temporal Attention in
+Dynamic Graphs with Bilinear Interactions</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(101).pdf" style="text-decoration:none;">Keep It Simple: Graph Autoencoders Without Graph Convolutional Networks</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(102).pdf" style="text-decoration:none;">Extracting and optimizing formally verified code for systems programming</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(102).pdf" style="text-decoration:none;">Dynamic Embedding on Textual Networks via a Gaussian Process</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(103).pdf" style="text-decoration:none;">Optimizing MapReduce for Multicore Architectures </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(103).pdf" style="text-decoration:none;">Efficiently Embedding Dynamic Knowledge Graphs </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(104).pdf" style="text-decoration:none;">MultiQ: Automated Detection of
-Multiple Bottleneck Capacities Along a Path</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(104).pdf" style="text-decoration:none;">Hyperbolic Graph Convolutional Neural Networks</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(105).pdf" style="text-decoration:none;">Towards Multiverse Databases</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(105).pdf" style="text-decoration:none;">InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(106).pdf" style="text-decoration:none;">Optimizations for Performant Multiverse Databases</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(106).pdf" style="text-decoration:none;">GraphAIR: Graph Representation Learning with Neighborhood Aggregation and Interaction</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(107).pdf" style="text-decoration:none;">Multiverse Databases for Secure Web Applications</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(108).pdf" style="text-decoration:none;">Building web applications on top of encrypted data using Mylar</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(109).pdf" style="text-decoration:none;">Nail: A practical tool for parsing and generating data formats</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(110).pdf" style="text-decoration:none;">NATRON: Overlay Routing to Oblivious Destinations </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(111).pdf" style="text-decoration:none;">Parallel Execution for Conflicting Transactions</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(107).pdf" style="text-decoration:none;">CoKE: Contextualized Knowledge Graph Embedding</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(112).pdf" style="text-decoration:none;">An O(1) algorithm for implementing the LFU
-cache eviction scheme</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(108).pdf" style="text-decoration:none;">Neural Graph Embedding Methods for
+Natural Language Processing</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(113).pdf" style="text-decoration:none;">Scalable Fault Tolerance for High-Performance Streaming Dataflow</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(109).pdf" style="text-decoration:none;">Composition-based Multi-Relational Graph Convolutional Networks</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(114).pdf" style="text-decoration:none;">Noria: A New Take on Fast Web Application Backends</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(115).pdf" style="text-decoration:none;">Noria: dynamic, partially-stateful data-flow
-for high-performance web applications</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(110).pdf" style="text-decoration:none;">Relation Adversarial Network for Low Resource Knowledge Graph Completion </a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(116).pdf" style="text-decoration:none;">Dynamic, partially-stateful data-flow for
-high-performance Web applications</a></li>   
-   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(117).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(118).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
-   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(119).pdf" style="text-decoration:none;">Large Scale Unit Testing for Go Programming Language Packages</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(111).pdf" style="text-decoration:none;">A Re-evaluation of Knowledge Graph Completion Methods</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(120).pdf" style="text-decoration:none;">The Design and Implementation of a
-High-Performance Active Network Node</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(112).pdf" style="text-decoration:none;">Decompressing Knowledge Graph Representations for Link Prediction</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(113).pdf" style="text-decoration:none;">Graph Transformer Networks</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(114).pdf" style="text-decoration:none;">ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(115).pdf" style="text-decoration:none;">Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(116).pdf" style="text-decoration:none;">JNET: Learning User Representations via Joint Network Embedding and Topic Embedding</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(117).pdf" style="text-decoration:none;">Gaussian Embedding of Large-scale Attributed Graphs</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(118).pdf" style="text-decoration:none;">OpenBioLink: A benchmarking framework for large-scale biomedical link prediction</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(119).pdf" style="text-decoration:none;">Reasoning on Knowledge Graphs with Debate Dynamics</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(120).pdf" style="text-decoration:none;">Simple and Eective Graph Autoencoders with One-Hop Linear Models</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(121).pdf" style="text-decoration:none;">The Design, Implementation and Operation
 of an Email Pseudonym Server</a></li>   
