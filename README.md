@@ -27,7 +27,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(14).pdf" style="text-decoration:none;">A survey of embedding models of entities and relationships for knowledge graph completion</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(15).pdf" style="text-decoration:none;">Eicient Parallel Translating Embedding For Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(15).pdf" style="text-decoration:none;">Efficient Parallel Translating Embedding For Knowledge Graphs</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(16).pdf" style="text-decoration:none;">Analogical Inference for Multi-relational Embeddings</a></li>
 
@@ -59,7 +59,7 @@ Learning Node Embeddings via Graph Attention</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(30).pdf" style="text-decoration:none;">Incorporating Literals into Knowledge Graph Embeddings</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(31).pdf" style="text-decoration:none;">Beyond Markov Logic: Eicient Mining of Prediction Rules in Large Graphs</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(31).pdf" style="text-decoration:none;">Beyond Markov Logic: Efficient Mining of Prediction Rules in Large Graphs</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(32).pdf" style="text-decoration:none;">Adversarially Regularized Graph Autoencoder for Graph Embedding</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Link-Prediction-Papers/blob/master/link(33).pdf" style="text-decoration:none;">SimplE Embedding for Link Prediction in Knowledge Graphs</a></li>                              
